@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/XoX7_E5g9sYAAAAC/jjk-jujutsu-kaisen.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Anime Banner" />
+  <img src="" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Anime Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;Linux+Enthusiast;Welcome+to+my+Domain" alt="Typing SVG" />
@@ -23,26 +23,6 @@
       <img src="https://skillicons.dev/icons?i=cs,java,py,html,css,dotnet,spring,docker,linux,debian,ubuntu,windows,git,vscode,visualstudio,rider&perline=8&theme=dark" alt="My Skills" />
     </a>
   </p>
-
-  <br/><br/>
-
-  <h3>📊 Battle Statistics</h3>
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arthurwillyams&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=d2a8ff" alt="General Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurwillyams&theme=tokyonight&hide_border=true&background=0d1117&ring=79c0ff&currStreakLabel=79c0ff" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwillyams&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
   <br/>
 

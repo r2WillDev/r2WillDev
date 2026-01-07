@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/XoX7_E5g9sYAAAAC/jjk-jujutsu-kaisen.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Anime Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;C%23+%26+Java+Developer;Linux+Enthusiast;Welcome+to+my+Domain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;Linux+Enthusiast;Welcome+to+my+Domain" alt="Typing SVG" />
   </a>
 
   <br/><br/>

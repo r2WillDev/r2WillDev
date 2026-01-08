@@ -35,11 +35,14 @@
 
   <br/><br/>
 
-  <h3>🎧 Neural Link (On Air)</h3>
-  <a href="https://www.last.fm/user/EuToTrist" target="_blank">
-    <img src="https://lastfm-profile-readme-eight.vercel.app/api?user=EuToTrist&theme=tokyonight" width="400" alt="Now Playing on Spotify" />
+  <h3 align="center">🎧 Neural Link (Status)</h3>
+<div align="center">
+  <a href="https://www.last.fm/user/EuToTrist">
+    <img src="https://img.shields.io/badge/dynamic/json?color=410a6e&label=Listening%20To&query=recenttracks.track%5B0%5D.name&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3DEuToTrist%26api_key%3D9808d24eb688f79ad2015b15d88ccff0%26format%3Djson%26limit%3D1&style=for-the-badge&logo=last.fm&logoColor=whit" alt="Last.fm Song"/>
+    <br/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=black&label=Artist&query=recenttracks.track%5B0%5D.artist.%23text&url=https%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getrecenttracks%26user%3DEuToTrist%26api_key%3D9808d24eb688f79ad2015b15d88ccff0%26format%3Djson%26limit%3D1&style=flat-square&logo=spotify&logoColor=1DB954" alt="Last.fm Artist"/>
   </a>
-  
+</div>
   <br/><br/>
 
   <h3>👾 Random Buff (Jokes)</h3>

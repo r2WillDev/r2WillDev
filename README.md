@@ -35,6 +35,13 @@
 
   <br/><br/>
 
+  <h3>🎧 Neural Link (On Air)</h3>
+  <a href="https://www.last.fm/user/EuToTrist" target="_blank">
+    <img src="https://lastfm-profile-readme-eight.vercel.app/api?user=EuToTrist&theme=tokyonight" width="400" alt="Now Playing on Spotify" />
+  </a>
+  
+  <br/><br/>
+
   <h3>👾 Random Buff (Jokes)</h3>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" width="600" alt="Dev Joke" />
 
